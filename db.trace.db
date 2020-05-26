@@ -1,0 +1,4 @@
+2020-05-15 16:59:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabela "ACT_ADM_DATABASECHANGELOGLOCK" nie istnieje
+Table "ACT_ADM_DATABASECHANGELOGLOCK" not found; SQL statement:
+SELECT COUNT(*) FROM PUBLIC.ACT_ADM_DATABASECHANGELOGLOCK [42102-199]
